@@ -1,5 +1,7 @@
 # Handpad
 ### HandPad is a hackpad specifically designed to use it while making cad models it have a very unique design and can be wearable on lft hand finger with encoder used by thumbs i will be using fir cading and upcoming hackclub programs like consturct upcoming and bluprint
+Here is How it Looks Finally 
+
 
 <img width="1115" height="692" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/8bbdadf1-dd0a-4849-a073-5a2713a07246" />
 <img width="810" height="527" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/8203a0ab-a01f-4fa6-a18f-4d4ee8f92497" />
